@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/jetson/Github_Jetson/Yolov26/Yolov26_Tensor_cpp/build",
+  "command": "/usr/bin/c++  -I/usr/local/cuda/include -isystem /usr/include/opencv4 -std=gnu++14 -o CMakeFiles/yolo26_app.dir/main.cpp.o -c /home/jetson/Github_Jetson/Yolov26/Yolov26_Tensor_cpp/main.cpp",
+  "file": "/home/jetson/Github_Jetson/Yolov26/Yolov26_Tensor_cpp/main.cpp"
+},
+{
+  "directory": "/home/jetson/Github_Jetson/Yolov26/Yolov26_Tensor_cpp/build",
+  "command": "/usr/bin/c++  -I/usr/local/cuda/include -isystem /usr/include/opencv4 -std=gnu++14 -o CMakeFiles/yolo26_app.dir/yolo.cpp.o -c /home/jetson/Github_Jetson/Yolov26/Yolov26_Tensor_cpp/yolo.cpp",
+  "file": "/home/jetson/Github_Jetson/Yolov26/Yolov26_Tensor_cpp/yolo.cpp"
+},
+{
+  "directory": "/home/jetson/Github_Jetson/Yolov26/Yolov26_Tensor_cpp/build",
+  "command": "/usr/bin/c++  -I/usr/local/cuda/include -isystem /usr/include/opencv4 -std=gnu++14 -o CMakeFiles/yolo26_usb.dir/main_usb.cpp.o -c /home/jetson/Github_Jetson/Yolov26/Yolov26_Tensor_cpp/main_usb.cpp",
+  "file": "/home/jetson/Github_Jetson/Yolov26/Yolov26_Tensor_cpp/main_usb.cpp"
+},
+{
+  "directory": "/home/jetson/Github_Jetson/Yolov26/Yolov26_Tensor_cpp/build",
+  "command": "/usr/bin/c++  -I/usr/local/cuda/include -isystem /usr/include/opencv4 -std=gnu++14 -o CMakeFiles/yolo26_usb.dir/yolo.cpp.o -c /home/jetson/Github_Jetson/Yolov26/Yolov26_Tensor_cpp/yolo.cpp",
+  "file": "/home/jetson/Github_Jetson/Yolov26/Yolov26_Tensor_cpp/yolo.cpp"
+},
+{
+  "directory": "/home/jetson/Github_Jetson/Yolov26/Yolov26_Tensor_cpp/build",
+  "command": "/usr/bin/c++  -I/usr/local/cuda/include -isystem /usr/include/opencv4 -std=gnu++14 -o CMakeFiles/yolo26_csi.dir/main_csi.cpp.o -c /home/jetson/Github_Jetson/Yolov26/Yolov26_Tensor_cpp/main_csi.cpp",
+  "file": "/home/jetson/Github_Jetson/Yolov26/Yolov26_Tensor_cpp/main_csi.cpp"
+},
+{
+  "directory": "/home/jetson/Github_Jetson/Yolov26/Yolov26_Tensor_cpp/build",
+  "command": "/usr/bin/c++  -I/usr/local/cuda/include -isystem /usr/include/opencv4 -std=gnu++14 -o CMakeFiles/yolo26_csi.dir/yolo.cpp.o -c /home/jetson/Github_Jetson/Yolov26/Yolov26_Tensor_cpp/yolo.cpp",
+  "file": "/home/jetson/Github_Jetson/Yolov26/Yolov26_Tensor_cpp/yolo.cpp"
+}
+]

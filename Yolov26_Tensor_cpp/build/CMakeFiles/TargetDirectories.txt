@@ -1,0 +1,5 @@
+/home/jetson/Github_Jetson/Yolov26/Yolov26_Tensor_cpp/build/CMakeFiles/yolo26_app.dir
+/home/jetson/Github_Jetson/Yolov26/Yolov26_Tensor_cpp/build/CMakeFiles/yolo26_usb.dir
+/home/jetson/Github_Jetson/Yolov26/Yolov26_Tensor_cpp/build/CMakeFiles/yolo26_csi.dir
+/home/jetson/Github_Jetson/Yolov26/Yolov26_Tensor_cpp/build/CMakeFiles/edit_cache.dir
+/home/jetson/Github_Jetson/Yolov26/Yolov26_Tensor_cpp/build/CMakeFiles/rebuild_cache.dir
