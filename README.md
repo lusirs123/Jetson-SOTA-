@@ -2,8 +2,6 @@
 
 # 实验结果
 
-<img src="../../../Library/Application Support/typora-user-images/image-20260117165026242.png" alt="image-20260117165026242" style="zoom:50%;" />
-
 对于这次尝试，是我第一次编写GitHub文章并且复现最新的Yolo26，但是出于未知原因yolo26在使用TensorRTC++编写完之后出现检测框定位不准确的问题，经过多次修改也未见其成效，于是我将其换成Yolov8模型并成功导出、TensorRTC++编写和成功运行，期间未改变代码的主体，只是读入的模型变了，这也反向证明了C++主体是正确的，但对于v26就不知道是什么原因了。最后发现可能是如下原因：
 
 **模型架构差异分析 (Model Architecture Discrepancy):**
