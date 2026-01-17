@@ -1,0 +1,17 @@
+# Ignore build artifacts
+build/
+*.o
+*.so
+*.dylib
+
+# Ignore large model files (GitHub limit is 100MB)
+*.engine
+*.pt
+*.pth
+# 如果 onnx 太大也可以忽略，或者用 git lfs
+# *.onnx 
+
+# System files
+.DS_Store
+.vscode/
+__pycache__/
